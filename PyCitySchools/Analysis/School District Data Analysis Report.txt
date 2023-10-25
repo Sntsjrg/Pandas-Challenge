@@ -1,0 +1,14 @@
+School District Data Analysis Report
+
+School Type Analysis:
+
+There are a total of 15 schools in the district, including both charter and district schools.
+Charter schools tend to have higher average math and reading scores even with a lower overall budget and per student budget compared to district schools which have a higher budget. They also have significantly higher passing rates in math, reading, and in general overall.
+District schools, on the other hand, have larger student populations, but they tend to have lower average scores and passing rates.
+
+School Size Analysis:
+
+The analysis indicates that smaller-sized schools with fewer than 1,000 students tend to have higher average math and reading scores and higher passing rates.
+Medium-sized schools with 1,000 to 2,000 students also perform well in terms of average scores and passing rates.
+Larger schools with more than 2,000 students have lower average scores and passing rates.
+Smaller and medium-sized schools tend to provide a better learning environment, leading to higher academic performance and passing rates. Large schools face challenges in maintaining high standards.
